@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\MyApp1\MyApp1\bin\Debug\MyApp1.exe.config
+C:\Users\Lenovo\source\repos\MyApp1\MyApp1\bin\Debug\MyApp1.exe
+C:\Users\Lenovo\source\repos\MyApp1\MyApp1\bin\Debug\MyApp1.pdb
+C:\Users\Lenovo\source\repos\MyApp1\MyApp1\obj\Debug\MyApp1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\MyApp1\MyApp1\obj\Debug\MyApp1.FrmPrincipal.resources
+C:\Users\Lenovo\source\repos\MyApp1\MyApp1\obj\Debug\MyApp1.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\MyApp1\MyApp1\obj\Debug\MyApp1.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\MyApp1\MyApp1\obj\Debug\MyApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MyApp1\MyApp1\obj\Debug\MyApp1.exe
+C:\Users\Lenovo\source\repos\MyApp1\MyApp1\obj\Debug\MyApp1.pdb
