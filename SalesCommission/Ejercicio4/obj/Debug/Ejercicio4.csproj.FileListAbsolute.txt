@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\ComisionVentas\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\ComisionVentas\Ejercicio4\bin\Debug\Ejercicio4.exe
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\ComisionVentas\Ejercicio4\bin\Debug\Ejercicio4.pdb
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\ComisionVentas\Ejercicio4\obj\Debug\Ejercicio4.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\ComisionVentas\Ejercicio4\obj\Debug\Ejercicio4.Form1.resources
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\ComisionVentas\Ejercicio4\obj\Debug\Ejercicio4.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\ComisionVentas\Ejercicio4\obj\Debug\Ejercicio4.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\ComisionVentas\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\ComisionVentas\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\ComisionVentas\Ejercicio4\obj\Debug\Ejercicio4.pdb

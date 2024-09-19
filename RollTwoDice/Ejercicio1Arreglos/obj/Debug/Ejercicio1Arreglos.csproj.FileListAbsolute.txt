@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\TirarDosDados\Ejercicio1Arreglos\bin\Debug\Ejercicio1Arreglos.exe.config
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\TirarDosDados\Ejercicio1Arreglos\bin\Debug\Ejercicio1Arreglos.exe
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\TirarDosDados\Ejercicio1Arreglos\bin\Debug\Ejercicio1Arreglos.pdb
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\TirarDosDados\Ejercicio1Arreglos\obj\Debug\Ejercicio1Arreglos.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\TirarDosDados\Ejercicio1Arreglos\obj\Debug\Ejercicio1Arreglos.Form1.resources
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\TirarDosDados\Ejercicio1Arreglos\obj\Debug\Ejercicio1Arreglos.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\TirarDosDados\Ejercicio1Arreglos\obj\Debug\Ejercicio1Arreglos.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\TirarDosDados\Ejercicio1Arreglos\obj\Debug\Ejercicio1Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\TirarDosDados\Ejercicio1Arreglos\obj\Debug\Ejercicio1Arreglos.exe
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\TirarDosDados\Ejercicio1Arreglos\obj\Debug\Ejercicio1Arreglos.pdb

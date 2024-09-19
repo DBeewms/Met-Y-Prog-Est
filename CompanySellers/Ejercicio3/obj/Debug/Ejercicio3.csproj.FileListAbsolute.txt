@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\EmpresaVendedores\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\EmpresaVendedores\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\EmpresaVendedores\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\EmpresaVendedores\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\EmpresaVendedores\Ejercicio3\obj\Debug\Ejercicio3.Form1.resources
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\EmpresaVendedores\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\EmpresaVendedores\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\EmpresaVendedores\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\EmpresaVendedores\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\Lenovo\Desktop\RepositorioArreglosCSharp\EmpresaVendedores\Ejercicio3\obj\Debug\Ejercicio3.pdb
