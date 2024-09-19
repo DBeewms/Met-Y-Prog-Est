@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\RepositorioControlesDeFlujoCSharp\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\Lenovo\Desktop\RepositorioControlesDeFlujoCSharp\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\Lenovo\Desktop\RepositorioControlesDeFlujoCSharp\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\Lenovo\Desktop\RepositorioControlesDeFlujoCSharp\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Form1.resources
+C:\Users\Lenovo\Desktop\RepositorioControlesDeFlujoCSharp\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\RepositorioControlesDeFlujoCSharp\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\RepositorioControlesDeFlujoCSharp\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepositorioControlesDeFlujoCSharp\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\Lenovo\Desktop\RepositorioControlesDeFlujoCSharp\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
