@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\EjerciciosClaseProgEst\Archivos\Archivos\bin\Debug\Archivos.exe.config
+C:\Users\Lenovo\Desktop\EjerciciosClaseProgEst\Archivos\Archivos\bin\Debug\Archivos.exe
+C:\Users\Lenovo\Desktop\EjerciciosClaseProgEst\Archivos\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Lenovo\Desktop\EjerciciosClaseProgEst\Archivos\Archivos\obj\Debug\Archivos.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\EjerciciosClaseProgEst\Archivos\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\EjerciciosClaseProgEst\Archivos\Archivos\obj\Debug\Archivos.exe
+C:\Users\Lenovo\Desktop\EjerciciosClaseProgEst\Archivos\Archivos\obj\Debug\Archivos.pdb
