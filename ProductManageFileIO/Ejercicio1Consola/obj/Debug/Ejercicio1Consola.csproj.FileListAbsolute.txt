@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Reforzamiento_10_Octubre\Ejercicio1Consola\Ejercicio1Consola\bin\Debug\Ejercicio1Consola.exe.config
+C:\Users\Lenovo\Desktop\Reforzamiento_10_Octubre\Ejercicio1Consola\Ejercicio1Consola\bin\Debug\Ejercicio1Consola.exe
+C:\Users\Lenovo\Desktop\Reforzamiento_10_Octubre\Ejercicio1Consola\Ejercicio1Consola\bin\Debug\Ejercicio1Consola.pdb
+C:\Users\Lenovo\Desktop\Reforzamiento_10_Octubre\Ejercicio1Consola\Ejercicio1Consola\obj\Debug\Ejercicio1Consola.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Reforzamiento_10_Octubre\Ejercicio1Consola\Ejercicio1Consola\obj\Debug\Ejercicio1Consola.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Reforzamiento_10_Octubre\Ejercicio1Consola\Ejercicio1Consola\obj\Debug\Ejercicio1Consola.exe
+C:\Users\Lenovo\Desktop\Reforzamiento_10_Octubre\Ejercicio1Consola\Ejercicio1Consola\obj\Debug\Ejercicio1Consola.pdb
