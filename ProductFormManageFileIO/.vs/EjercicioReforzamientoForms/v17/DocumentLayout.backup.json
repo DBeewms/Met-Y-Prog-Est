@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Reforzamiento_10_Octubre\\EjercicioReforzamientoForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E61DA453-1C6B-44F8-97C3-1F9900A65DFA}|EjercicioReforzamientoForms\\EjercicioReforzamientoForms.csproj|C:\\Users\\Lenovo\\Desktop\\Reforzamiento_10_Octubre\\EjercicioReforzamientoForms\\ejercicioreforzamientoforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E61DA453-1C6B-44F8-97C3-1F9900A65DFA}|EjercicioReforzamientoForms\\EjercicioReforzamientoForms.csproj|solutionrelative:ejercicioreforzamientoforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61DA453-1C6B-44F8-97C3-1F9900A65DFA}|EjercicioReforzamientoForms\\EjercicioReforzamientoForms.csproj|c:\\users\\lenovo\\desktop\\reforzamiento_10_octubre\\ejercicioreforzamientoforms\\ejercicioreforzamientoforms\\clases\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61DA453-1C6B-44F8-97C3-1F9900A65DFA}|EjercicioReforzamientoForms\\EjercicioReforzamientoForms.csproj|solutionrelative:ejercicioreforzamientoforms\\clases\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61DA453-1C6B-44F8-97C3-1F9900A65DFA}|EjercicioReforzamientoForms\\EjercicioReforzamientoForms.csproj|C:\\Users\\Lenovo\\Desktop\\Reforzamiento_10_Octubre\\EjercicioReforzamientoForms\\ejercicioreforzamientoforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61DA453-1C6B-44F8-97C3-1F9900A65DFA}|EjercicioReforzamientoForms\\EjercicioReforzamientoForms.csproj|solutionrelative:ejercicioreforzamientoforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61DA453-1C6B-44F8-97C3-1F9900A65DFA}|EjercicioReforzamientoForms\\EjercicioReforzamientoForms.csproj|C:\\Users\\Lenovo\\Desktop\\Reforzamiento_10_Octubre\\EjercicioReforzamientoForms\\ejercicioreforzamientoforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61DA453-1C6B-44F8-97C3-1F9900A65DFA}|EjercicioReforzamientoForms\\EjercicioReforzamientoForms.csproj|solutionrelative:ejercicioreforzamientoforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Reforzamiento_10_Octubre\\EjercicioReforzamientoForms\\EjercicioReforzamientoForms\\Form1.cs",
+              "RelativeDocumentMoniker": "EjercicioReforzamientoForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Reforzamiento_10_Octubre\\EjercicioReforzamientoForms\\EjercicioReforzamientoForms\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EjercicioReforzamientoForms\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T22:54:49.67Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Reforzamiento_10_Octubre\\EjercicioReforzamientoForms\\EjercicioReforzamientoForms\\Form1.cs",
+              "RelativeDocumentMoniker": "EjercicioReforzamientoForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Reforzamiento_10_Octubre\\EjercicioReforzamientoForms\\EjercicioReforzamientoForms\\Form1.cs",
+              "RelativeToolTip": "EjercicioReforzamientoForms\\Form1.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAUwFQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:03:08.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Reforzamiento_10_Octubre\\EjercicioReforzamientoForms\\EjercicioReforzamientoForms\\Clases\\Inventario.cs",
+              "RelativeDocumentMoniker": "EjercicioReforzamientoForms\\Clases\\Inventario.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Reforzamiento_10_Octubre\\EjercicioReforzamientoForms\\EjercicioReforzamientoForms\\Clases\\Inventario.cs",
+              "RelativeToolTip": "EjercicioReforzamientoForms\\Clases\\Inventario.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwv1kAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T22:57:53.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Reforzamiento_10_Octubre\\EjercicioReforzamientoForms\\EjercicioReforzamientoForms\\Program.cs",
+              "RelativeDocumentMoniker": "EjercicioReforzamientoForms\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Reforzamiento_10_Octubre\\EjercicioReforzamientoForms\\EjercicioReforzamientoForms\\Program.cs",
+              "RelativeToolTip": "EjercicioReforzamientoForms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:02:37.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
