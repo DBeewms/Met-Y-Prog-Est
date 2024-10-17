@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\CalculadoraEjemplo3\CalculadoraEjemplo3\bin\Debug\CalculadoraEjemplo3.exe.config
+C:\Users\Lenovo\source\repos\CalculadoraEjemplo3\CalculadoraEjemplo3\bin\Debug\CalculadoraEjemplo3.exe
+C:\Users\Lenovo\source\repos\CalculadoraEjemplo3\CalculadoraEjemplo3\bin\Debug\CalculadoraEjemplo3.pdb
+C:\Users\Lenovo\source\repos\CalculadoraEjemplo3\CalculadoraEjemplo3\obj\Debug\CalculadoraEjemplo3.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\CalculadoraEjemplo3\CalculadoraEjemplo3\obj\Debug\CalculadoraEjemplo3.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\CalculadoraEjemplo3\CalculadoraEjemplo3\obj\Debug\CalculadoraEjemplo3.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\CalculadoraEjemplo3\CalculadoraEjemplo3\obj\Debug\CalculadoraEjemplo3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CalculadoraEjemplo3\CalculadoraEjemplo3\obj\Debug\CalculadoraEjemplo3.exe
+C:\Users\Lenovo\source\repos\CalculadoraEjemplo3\CalculadoraEjemplo3\obj\Debug\CalculadoraEjemplo3.pdb
