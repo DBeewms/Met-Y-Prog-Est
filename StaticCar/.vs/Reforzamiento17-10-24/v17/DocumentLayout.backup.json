@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Reforzamiento17-10-24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C356D52-8D59-4914-8CE5-04162CD6363C}|Reforzamiento17-10-24\\Reforzamiento17-10-24.csproj|c:\\users\\lenovo\\source\\repos\\reforzamiento17-10-24\\reforzamiento17-10-24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C356D52-8D59-4914-8CE5-04162CD6363C}|Reforzamiento17-10-24\\Reforzamiento17-10-24.csproj|solutionrelative:reforzamiento17-10-24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C356D52-8D59-4914-8CE5-04162CD6363C}|Reforzamiento17-10-24\\Reforzamiento17-10-24.csproj|c:\\users\\lenovo\\source\\repos\\reforzamiento17-10-24\\reforzamiento17-10-24\\clases\\gestorautos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C356D52-8D59-4914-8CE5-04162CD6363C}|Reforzamiento17-10-24\\Reforzamiento17-10-24.csproj|solutionrelative:reforzamiento17-10-24\\clases\\gestorautos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestorAutos.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Reforzamiento17-10-24\\Reforzamiento17-10-24\\Clases\\GestorAutos.cs",
+              "RelativeDocumentMoniker": "Reforzamiento17-10-24\\Clases\\GestorAutos.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Reforzamiento17-10-24\\Reforzamiento17-10-24\\Clases\\GestorAutos.cs*",
+              "RelativeToolTip": "Reforzamiento17-10-24\\Clases\\GestorAutos.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T00:14:15.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Reforzamiento17-10-24\\Reforzamiento17-10-24\\Program.cs",
+              "RelativeDocumentMoniker": "Reforzamiento17-10-24\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Reforzamiento17-10-24\\Reforzamiento17-10-24\\Program.cs*",
+              "RelativeToolTip": "Reforzamiento17-10-24\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T00:13:13.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

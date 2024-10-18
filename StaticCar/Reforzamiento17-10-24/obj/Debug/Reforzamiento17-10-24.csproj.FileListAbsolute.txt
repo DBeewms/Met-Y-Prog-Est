@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Reforzamiento17-10-24\Reforzamiento17-10-24\bin\Debug\Reforzamiento17-10-24.exe.config
+C:\Users\Lenovo\source\repos\Reforzamiento17-10-24\Reforzamiento17-10-24\bin\Debug\Reforzamiento17-10-24.exe
+C:\Users\Lenovo\source\repos\Reforzamiento17-10-24\Reforzamiento17-10-24\bin\Debug\Reforzamiento17-10-24.pdb
+C:\Users\Lenovo\source\repos\Reforzamiento17-10-24\Reforzamiento17-10-24\obj\Debug\Reforzamiento17-10-24.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Reforzamiento17-10-24\Reforzamiento17-10-24\obj\Debug\Reforzamiento17-10-24.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Reforzamiento17-10-24\Reforzamiento17-10-24\obj\Debug\Reforzamiento17-10-24.exe
+C:\Users\Lenovo\source\repos\Reforzamiento17-10-24\Reforzamiento17-10-24\obj\Debug\Reforzamiento17-10-24.pdb
