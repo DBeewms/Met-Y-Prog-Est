@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\PasoArreglosFunciones\PasoArreglosFunciones\bin\Debug\PasoArreglosFunciones.exe.config
+C:\Users\Lenovo\source\repos\PasoArreglosFunciones\PasoArreglosFunciones\bin\Debug\PasoArreglosFunciones.exe
+C:\Users\Lenovo\source\repos\PasoArreglosFunciones\PasoArreglosFunciones\bin\Debug\PasoArreglosFunciones.pdb
+C:\Users\Lenovo\source\repos\PasoArreglosFunciones\PasoArreglosFunciones\obj\Debug\PasoArreglosFunciones.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\PasoArreglosFunciones\PasoArreglosFunciones\obj\Debug\PasoArreglosFunciones.Form1.resources
+C:\Users\Lenovo\source\repos\PasoArreglosFunciones\PasoArreglosFunciones\obj\Debug\PasoArreglosFunciones.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\PasoArreglosFunciones\PasoArreglosFunciones\obj\Debug\PasoArreglosFunciones.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\PasoArreglosFunciones\PasoArreglosFunciones\obj\Debug\PasoArreglosFunciones.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\PasoArreglosFunciones\PasoArreglosFunciones\obj\Debug\PasoArreglosFunciones.exe
+C:\Users\Lenovo\source\repos\PasoArreglosFunciones\PasoArreglosFunciones\obj\Debug\PasoArreglosFunciones.pdb
