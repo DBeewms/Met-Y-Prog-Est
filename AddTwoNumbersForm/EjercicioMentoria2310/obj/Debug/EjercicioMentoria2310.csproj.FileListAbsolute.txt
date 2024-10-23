@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\EjercicioMentoria2310\EjercicioMentoria2310\bin\Debug\EjercicioMentoria2310.exe.config
+C:\Users\Lenovo\source\repos\EjercicioMentoria2310\EjercicioMentoria2310\bin\Debug\EjercicioMentoria2310.exe
+C:\Users\Lenovo\source\repos\EjercicioMentoria2310\EjercicioMentoria2310\bin\Debug\EjercicioMentoria2310.pdb
+C:\Users\Lenovo\source\repos\EjercicioMentoria2310\EjercicioMentoria2310\obj\Debug\EjercicioMentoria2310.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\EjercicioMentoria2310\EjercicioMentoria2310\obj\Debug\EjercicioMentoria2310.Form1.resources
+C:\Users\Lenovo\source\repos\EjercicioMentoria2310\EjercicioMentoria2310\obj\Debug\EjercicioMentoria2310.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\EjercicioMentoria2310\EjercicioMentoria2310\obj\Debug\EjercicioMentoria2310.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\EjercicioMentoria2310\EjercicioMentoria2310\obj\Debug\EjercicioMentoria2310.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EjercicioMentoria2310\EjercicioMentoria2310\obj\Debug\EjercicioMentoria2310.exe
+C:\Users\Lenovo\source\repos\EjercicioMentoria2310\EjercicioMentoria2310\obj\Debug\EjercicioMentoria2310.pdb
