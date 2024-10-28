@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\MiPrimerForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B386A228-5C94-4CF9-B159-F805F2F25EFD}|MiPrimerForm\\MiPrimerForm.csproj|c:\\users\\lenovo\\source\\repos\\miprimerform\\miprimerform\\formularios\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B386A228-5C94-4CF9-B159-F805F2F25EFD}|MiPrimerForm\\MiPrimerForm.csproj|solutionrelative:miprimerform\\formularios\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B386A228-5C94-4CF9-B159-F805F2F25EFD}|MiPrimerForm\\MiPrimerForm.csproj|c:\\users\\lenovo\\source\\repos\\miprimerform\\miprimerform\\formularios\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B386A228-5C94-4CF9-B159-F805F2F25EFD}|MiPrimerForm\\MiPrimerForm.csproj|solutionrelative:miprimerform\\formularios\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B386A228-5C94-4CF9-B159-F805F2F25EFD}|MiPrimerForm\\MiPrimerForm.csproj|c:\\users\\lenovo\\source\\repos\\miprimerform\\miprimerform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B386A228-5C94-4CF9-B159-F805F2F25EFD}|MiPrimerForm\\MiPrimerForm.csproj|solutionrelative:miprimerform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B386A228-5C94-4CF9-B159-F805F2F25EFD}|MiPrimerForm\\MiPrimerForm.csproj|c:\\users\\lenovo\\source\\repos\\miprimerform\\miprimerform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B386A228-5C94-4CF9-B159-F805F2F25EFD}|MiPrimerForm\\MiPrimerForm.csproj|solutionrelative:miprimerform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MiPrimerForm||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B386A228-5C94-4CF9-B159-F805F2F25EFD}|MiPrimerForm\\MiPrimerForm.csproj|c:\\users\\lenovo\\source\\repos\\miprimerform\\miprimerform\\formularios\\frmabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B386A228-5C94-4CF9-B159-F805F2F25EFD}|MiPrimerForm\\MiPrimerForm.csproj|solutionrelative:miprimerform\\formularios\\frmabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B386A228-5C94-4CF9-B159-F805F2F25EFD}|MiPrimerForm\\MiPrimerForm.csproj|c:\\users\\lenovo\\source\\repos\\miprimerform\\miprimerform\\formularios\\frmabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B386A228-5C94-4CF9-B159-F805F2F25EFD}|MiPrimerForm\\MiPrimerForm.csproj|solutionrelative:miprimerform\\formularios\\frmabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B386A228-5C94-4CF9-B159-F805F2F25EFD}|MiPrimerForm\\MiPrimerForm.csproj|c:\\users\\lenovo\\source\\repos\\miprimerform\\miprimerform\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MiPrimerForm\\MiPrimerForm\\Formularios\\FrmProducto.cs",
+              "RelativeDocumentMoniker": "MiPrimerForm\\Formularios\\FrmProducto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MiPrimerForm\\MiPrimerForm\\Formularios\\FrmProducto.cs",
+              "RelativeToolTip": "MiPrimerForm\\Formularios\\FrmProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:31:39.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MiPrimerForm\\MiPrimerForm\\Formularios\\FrmProducto.cs",
+              "RelativeDocumentMoniker": "MiPrimerForm\\Formularios\\FrmProducto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MiPrimerForm\\MiPrimerForm\\Formularios\\FrmProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MiPrimerForm\\Formularios\\FrmProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:29:34.766Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MiPrimerForm",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MiPrimerForm\\MiPrimerForm\\MiPrimerForm.csproj",
+              "RelativeDocumentMoniker": "MiPrimerForm\\MiPrimerForm.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MiPrimerForm\\MiPrimerForm\\MiPrimerForm.csproj",
+              "RelativeToolTip": "MiPrimerForm\\MiPrimerForm.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-28T14:06:49.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmAbout.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MiPrimerForm\\MiPrimerForm\\Formularios\\FrmAbout.cs",
+              "RelativeDocumentMoniker": "MiPrimerForm\\Formularios\\FrmAbout.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MiPrimerForm\\MiPrimerForm\\Formularios\\FrmAbout.cs",
+              "RelativeToolTip": "MiPrimerForm\\Formularios\\FrmAbout.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:06:05.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmAbout.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MiPrimerForm\\MiPrimerForm\\Formularios\\FrmAbout.cs",
+              "RelativeDocumentMoniker": "MiPrimerForm\\Formularios\\FrmAbout.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MiPrimerForm\\MiPrimerForm\\Formularios\\FrmAbout.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MiPrimerForm\\Formularios\\FrmAbout.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:01:11.153Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MiPrimerForm\\MiPrimerForm\\Form1.cs",
+              "RelativeDocumentMoniker": "MiPrimerForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MiPrimerForm\\MiPrimerForm\\Form1.cs",
+              "RelativeToolTip": "MiPrimerForm\\Form1.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAA3wE8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:33:32.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MiPrimerForm\\MiPrimerForm\\Form1.cs",
+              "RelativeDocumentMoniker": "MiPrimerForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MiPrimerForm\\MiPrimerForm\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MiPrimerForm\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:29:05.82Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
