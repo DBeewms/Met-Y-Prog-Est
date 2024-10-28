@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\AnalisisSistemas\AnalisisSistemas\bin\Debug\AnalisisSistemas.exe.config
+C:\Users\Lenovo\source\repos\AnalisisSistemas\AnalisisSistemas\bin\Debug\AnalisisSistemas.exe
+C:\Users\Lenovo\source\repos\AnalisisSistemas\AnalisisSistemas\bin\Debug\AnalisisSistemas.pdb
+C:\Users\Lenovo\source\repos\AnalisisSistemas\AnalisisSistemas\obj\Debug\AnalisisSistemas.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AnalisisSistemas\AnalisisSistemas\obj\Debug\AnalisisSistemas.Form1.resources
+C:\Users\Lenovo\source\repos\AnalisisSistemas\AnalisisSistemas\obj\Debug\AnalisisSistemas.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\AnalisisSistemas\AnalisisSistemas\obj\Debug\AnalisisSistemas.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\AnalisisSistemas\AnalisisSistemas\obj\Debug\AnalisisSistemas.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AnalisisSistemas\AnalisisSistemas\obj\Debug\AnalisisSistemas.exe
+C:\Users\Lenovo\source\repos\AnalisisSistemas\AnalisisSistemas\obj\Debug\AnalisisSistemas.pdb
