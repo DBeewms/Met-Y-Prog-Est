@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\AppFormsAyDS2\AppFormsAyDS2\bin\Debug\AppFormsAyDS2.exe.config
+C:\Users\Lenovo\source\repos\AppFormsAyDS2\AppFormsAyDS2\bin\Debug\AppFormsAyDS2.exe
+C:\Users\Lenovo\source\repos\AppFormsAyDS2\AppFormsAyDS2\bin\Debug\AppFormsAyDS2.pdb
+C:\Users\Lenovo\source\repos\AppFormsAyDS2\AppFormsAyDS2\bin\Debug\MetroFramework.Design.dll
+C:\Users\Lenovo\source\repos\AppFormsAyDS2\AppFormsAyDS2\bin\Debug\MetroFramework.dll
+C:\Users\Lenovo\source\repos\AppFormsAyDS2\AppFormsAyDS2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Lenovo\source\repos\AppFormsAyDS2\AppFormsAyDS2\obj\Debug\AppFormsAyDS2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AppFormsAyDS2\AppFormsAyDS2\obj\Debug\AppFormsAyDS2.Form1.resources
+C:\Users\Lenovo\source\repos\AppFormsAyDS2\AppFormsAyDS2\obj\Debug\AppFormsAyDS2.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\AppFormsAyDS2\AppFormsAyDS2\obj\Debug\AppFormsAyDS2.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\AppFormsAyDS2\AppFormsAyDS2\obj\Debug\AppFormsAyDS2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AppFormsAyDS2\AppFormsAyDS2\obj\Debug\AppForms.87D11F37.Up2Date
+C:\Users\Lenovo\source\repos\AppFormsAyDS2\AppFormsAyDS2\obj\Debug\AppFormsAyDS2.exe
+C:\Users\Lenovo\source\repos\AppFormsAyDS2\AppFormsAyDS2\obj\Debug\AppFormsAyDS2.pdb
