@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\EjerciciosFormsSemana13\EjerciciosFormsSemana13\bin\Debug\EjerciciosFormsSemana13.exe.config
+C:\Users\Lenovo\source\repos\EjerciciosFormsSemana13\EjerciciosFormsSemana13\bin\Debug\EjerciciosFormsSemana13.exe
+C:\Users\Lenovo\source\repos\EjerciciosFormsSemana13\EjerciciosFormsSemana13\bin\Debug\EjerciciosFormsSemana13.pdb
+C:\Users\Lenovo\source\repos\EjerciciosFormsSemana13\EjerciciosFormsSemana13\bin\Debug\MetroFramework.Design.dll
+C:\Users\Lenovo\source\repos\EjerciciosFormsSemana13\EjerciciosFormsSemana13\bin\Debug\MetroFramework.dll
+C:\Users\Lenovo\source\repos\EjerciciosFormsSemana13\EjerciciosFormsSemana13\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Lenovo\source\repos\EjerciciosFormsSemana13\EjerciciosFormsSemana13\obj\Debug\EjerciciosFormsSemana13.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\EjerciciosFormsSemana13\EjerciciosFormsSemana13\obj\Debug\EjerciciosFormsSemana13.LoginForm.resources
+C:\Users\Lenovo\source\repos\EjerciciosFormsSemana13\EjerciciosFormsSemana13\obj\Debug\EjerciciosFormsSemana13.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\EjerciciosFormsSemana13\EjerciciosFormsSemana13\obj\Debug\EjerciciosFormsSemana13.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\EjerciciosFormsSemana13\EjerciciosFormsSemana13\obj\Debug\EjerciciosFormsSemana13.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EjerciciosFormsSemana13\EjerciciosFormsSemana13\obj\Debug\Ejercici.932BD052.Up2Date
+C:\Users\Lenovo\source\repos\EjerciciosFormsSemana13\EjerciciosFormsSemana13\obj\Debug\EjerciciosFormsSemana13.exe
+C:\Users\Lenovo\source\repos\EjerciciosFormsSemana13\EjerciciosFormsSemana13\obj\Debug\EjerciciosFormsSemana13.pdb
+C:\Users\Lenovo\source\repos\EjerciciosFormsSemana13\EjerciciosFormsSemana13\obj\Debug\EjerciciosFormsSemana13.Formularios.MenuPrincipal.resources
