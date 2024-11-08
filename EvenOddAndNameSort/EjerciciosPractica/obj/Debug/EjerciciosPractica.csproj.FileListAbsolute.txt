@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\EjerciciosPractica\EjerciciosPractica\bin\Debug\EjerciciosPractica.exe.config
+C:\Users\Lenovo\source\repos\EjerciciosPractica\EjerciciosPractica\bin\Debug\EjerciciosPractica.exe
+C:\Users\Lenovo\source\repos\EjerciciosPractica\EjerciciosPractica\bin\Debug\EjerciciosPractica.pdb
+C:\Users\Lenovo\source\repos\EjerciciosPractica\EjerciciosPractica\obj\Debug\EjerciciosPractica.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\EjerciciosPractica\EjerciciosPractica\obj\Debug\EjerciciosPractica.Formularios.ParesImpares.resources
+C:\Users\Lenovo\source\repos\EjerciciosPractica\EjerciciosPractica\obj\Debug\EjerciciosPractica.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\EjerciciosPractica\EjerciciosPractica\obj\Debug\EjerciciosPractica.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\EjerciciosPractica\EjerciciosPractica\obj\Debug\EjerciciosPractica.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EjerciciosPractica\EjerciciosPractica\obj\Debug\EjerciciosPractica.exe
+C:\Users\Lenovo\source\repos\EjerciciosPractica\EjerciciosPractica\obj\Debug\EjerciciosPractica.pdb
+C:\Users\Lenovo\source\repos\EjerciciosPractica\EjerciciosPractica\obj\Debug\EjerciciosPractica.Form1.resources
+C:\Users\Lenovo\source\repos\EjerciciosPractica\EjerciciosPractica\obj\Debug\EjerciciosPractica.Formularios.Form1.resources
