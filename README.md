@@ -6,7 +6,7 @@ Bienvenido al repositorio **Metodología-Y-Programacion-Estructurada**, donde en
 
 ## 🌍 English Version
 
-This file is also available in English. You can access the English version here.
+This file is also available in English. You can access the English version [here](README-English.md).
 
 ---
 
